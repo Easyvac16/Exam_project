@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("#1 Create a project");
+            Console.WriteLine("Add line");
         }
     }
 }
