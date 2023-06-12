@@ -8,5 +8,11 @@ namespace Exam_project
 {
     internal class Enum_QuestionLevel
     {
+        enum QuestionLevel
+        {
+            Easy,
+            Medium,
+            Hard
+        }
     }
 }
