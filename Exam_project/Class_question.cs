@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Exam_project
 {
-    internal class Class_question
-    {
+   
         class Question
         {
             public string Text { get; set; }
@@ -16,5 +15,5 @@ namespace Exam_project
             public Answer CorrectAnswer { get; set; }
 
         }
-    }
+    
 }
